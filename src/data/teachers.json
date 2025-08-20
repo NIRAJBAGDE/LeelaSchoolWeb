@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "slug": "teacher-one",
+    "name": "ARYA BHIWGADE",
+    "designation": "PPT Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "https://ik.imagekit.io/dyrhtb4f5/ARYA%20BHIWGADE%20PPT.JPG?updatedAt=1749126133936",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 2,
+    "slug": "teacher-two",
+    "name": "ATUL MULEY",
+    "designation": "Sports Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "https://ik.imagekit.io/dyrhtb4f5/ATUL%20MULEY%20SPORTS%20TEACHER.JPG?updatedAt=1749126135706",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 3,
+    "slug": "teacher-three",
+    "name": "Harsha Sawarkar",
+    "designation": "Art & Craft Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "https://ik.imagekit.io/dyrhtb4f5/Harsha%20Sawarkar%20ART%20&%20CRAFT%20TEACHER.JPG?updatedAt=1749126136220",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 4,
+    "slug": "teacher-four",
+    "name": "Chetna Mouldekar",
+    "designation": "Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "https://ik.imagekit.io/dyrhtb4f5/ChetnaMouldekar.png?updatedAt=1749126136160",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 5,
+    "slug": "teacher-five",
+    "name": "Grupreet Kaur",
+    "designation": "PPT Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "/img/staff/GrupreetKaurPPT.png",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 6,
+    "slug": "teacher-six",
+    "name": "Monali Ambatkar",
+    "designation": "PPT Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "/img/staff/monaliambat.png",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 7,
+    "slug": "teacher-seven",
+    "name": "Mrs. Deepa Dive",
+    "designation": "Primary Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "/img/staff/Mrs. Deepa Dive Primary Teacher.JPG",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 8,
+    "slug": "teacher-eight",
+    "name": "Mrs. Ekta Kesharwai",
+    "designation": "Preprimary Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "/img/staff/Mrs. Ekta Kesharwai Preprimary Teacher.JPG",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 9,
+    "slug": "teacher-nine",
+    "name": "Mrs. Jyoti Meshram",
+    "designation": "Marathi Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "/img/staff/Mrs. Jyoti Meshram Marathi Teacher.JPG",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 10,
+    "slug": "teacher-ten",
+    "name": "Ms. Sonali Takbhaure",
+    "designation": "Computer Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "/img/staff/Ms. Sonali Takbhaure Computer Teacher.JPG",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 11,
+    "slug": "teacher-eleven",
+    "name": "Mts. Rupali Hatwar",
+    "designation": "Hindi Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "/img/staff/Mts. Rupali Hatwar Marathi .Hindi Teacher.JPG",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 12,
+    "slug": "teacher-twelve",
+    "name": "Poonam Yadav",
+    "designation": "Hindi Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "/img/staff/Poonam Yadav Hindi Teacher.JPG",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+
+  
+  {
+    "id": 13,
+    "slug": "teacher-twelve",
+    "name": "Priti Nimbalkar",
+    "designation": "EVS Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "/img/staff/Priti Nimbalkar EVS Teacher.JPG",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 14,
+    "slug": "teacher-twelve",
+    "name": "Reena Chinchulkar",
+    "designation": " Maths Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "/img/staff/Reena Chinchulkar Maths Teacher.JPG",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 15,
+    "slug": "teacher-twelve",
+    "name": "RIYA YADAV",
+    "designation": "PPT Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "/img/staff/RIYA YADAV PPT.JPG",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 16,
+    "slug": "teacher-twelve",
+    "name": "Shilpa Nikhade",
+    "designation": "PPT Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "/img/staff/Shilpa Nikhade PPT.JPG",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 17,
+    "slug": "teacher-twelve",
+    "name": "Sneha Belekar",
+    "designation": "Science Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "/img/staff/Sneha Belekar Science Teacher.JPG",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  },
+  {
+    "id": 18,
+    "slug": "teacher-twelve",
+    "name": "Zeenat Ansari",
+    "designation": "English & SST Teacher",
+    "bio": "Tempor orci dapibus ultrices in iaculis nunc sed augue. Feugiat in ante metus dictum at tempor commodo. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Arcu dictum varius duis at consectetur lorem donec massa.",
+    "image": "/img/staff/Zeenat Ansari English & SST Teacher.JPG",
+    "email": "infomail@gmail.com",
+    "phone": "+9870123456789",
+    "addresss": "Hudson, Wisconsin(WI), 54016"
+  }
+
+]

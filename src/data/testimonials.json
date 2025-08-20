@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "slug": "testimonial-one",
+    "title": "Sunita Yadav",
+    "designation": "Parent",
+    "description": "My child loves going to school and has never hesitated to attend. He enjoys his school time, and the teaching staff excels at nurturing, caring for, and developing children’s academic skills. They also foster social interaction and encourage productive play through a variety of engaging activities. It’s truly wonderful to see how the school creates a positive and enriching environment for learning!",
+    "image": "/img/avatar/avatar-1.png",
+    "rating": "5"
+  },
+  {
+      "id": 2,
+      "slug": "testimonial-two",
+      "title": "Sunil Sharma",
+      "designation": "Parent",
+      "description": "They provide a safe, nurturing, and vibrant environment where young learners thrive. Their trained and caring teachers focus on child-centric education, ensuring every child receives personalized attention and guidance. The classrooms are designed to be child-friendly and a lively playground to foster both learning and play.\n\nThey host regular events such as Annual Day, Sports Day, and cultural programs, encouraging creativity and teamwork.",
+      "image": "/img/avatar/avatar-2.png",
+      "rating": "5"
+  },
+  {
+    "id": 3,
+    "slug": "testimonial-three",
+    "title": "Leena Banait",
+    "designation": "Parent",
+    "description": "The staff is truly wonderful—friendly, caring, and dedicated to fostering a positive learning environment. Their hard work and commitment create a space where students thrive, and I’m incredibly grateful for everything they do. My child loves this school, and the staff’s kindness makes all the difference. I wholeheartedly recommend this school to anyone looking for a nurturing and supportive place for their child’s education.",
+    "image": "/img/avatar/avatar-3-1.png",
+    "rating": "5"
+  },
+  {
+    "id": 4,
+    "slug": "testimonial-four",
+    "title": "Sunita Madavi",
+    "designation": "Parent",
+    "description": "Specializes in early childhood education, catering to pre-primary students. Uses activity-based and play-way methods to make learning fun and interactive.",
+    "image": "/img/avatar/avatar-4.png",
+    "rating": "5"
+  }
+]

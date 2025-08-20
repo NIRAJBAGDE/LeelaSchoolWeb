@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "slug": "",
+    "title": "Skill Development",
+    "icon": "flaticon-skill",
+    "courseCount": "it-feature-item-content z-index",
+    "description": "CBSE promotes skill clubs in schools to encourage hands-on learning.",
+    "btnText": "Learn More"
+  },
+  {
+    "id": 2,
+    "slug": "",
+    "title": "Active Learning",
+    "icon": "flaticon-study",
+    "courseCount": "it-feature-item-content z-index",
+    "description": "Here we truly focuses on how students learn, not just what they learn.",
+    "btnText": "Learn More"
+  },
+  {
+    "id": 3,
+    "slug": "Photos",
+    "title": "Recent Updates",
+    "icon": "flaticon-star",
+    "courseCount": "it-feature-item-content z-index",
+    "description": "Multiple events happens and can be seen under Photos & Videos Gallery.",
+    "btnText": "Learn More"
+  }
+
+]
